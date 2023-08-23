@@ -1,0 +1,1 @@
+(this["webpackJsonpnotsnowy.finance"]=this["webpackJsonpnotsnowy.finance"]||[]).push([[32],{1421:function(n,o){}}]);
